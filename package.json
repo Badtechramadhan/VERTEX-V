@@ -1,6 +1,6 @@
 {
-  "name": "Lazack",
-  "version": "2.0.0",
+  "name": "Vertex",
+  "version": "1.0.0",
   "description": "WhatsApp bot sederhana yang di buat oleh Dims",
   "main": "index.js",
   "directories": {
@@ -11,18 +11,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Lazack28/Lazack-advanced.git"
+    "url": "git+https://github.com/Badtechramadhan/VERTEX-V.git"
   },
   "keywords": [
     "whatsapp-bot",
     "wabot-aq"
   ],
-  "author": "Lazack",
+  "author": "Ramadhan",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Lazack28/Lazack-advanced/issues"
+    "url": "https://github.com/Badtechramadhan/VERTEX-V/issues"
   },
-  "homepage": "https://github.com/Lazack28/Lazack-advanced#readme",
+  "homepage": "https://github.com/Badtechramadhan/VERTEX-V#readme",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
     "@fainshe/scrapers": "^0.0.6",
