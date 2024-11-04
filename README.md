@@ -8,6 +8,8 @@
 
 ***[SUBSCRIBE TELEGRAM CHANNEL](https://t.me/free_for_all_scriptsgiveway)***
 
+***[FOLLOW MY WHATSAPP CHANNEL](https://whatsapp.com/channel/0029VakZxvW8Pgs8FIrFQx0P)***
+
 ------------------------------------------
 
 **Genenerate pairing code**
