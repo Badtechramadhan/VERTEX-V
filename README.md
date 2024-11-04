@@ -5,7 +5,7 @@
   </p>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
-***[GROUP](https://chat.whatsapp.com/L99p40mHUAaJXVZ6Ra0FsW)***
+***[SUPPORT AND JOIN WHATSAPP GROUP](https://chat.whatsapp.com/L99p40mHUAaJXVZ6Ra0FsW)***
 
 
 ------------------------------------------
